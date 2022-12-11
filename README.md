@@ -1,6 +1,9 @@
 # Bicycle-details-shop-database
 MS SQL database for bicycle detail's shop.
+
+
 This database was created to be fast and scalable. Database has 6 tables for customer, assembler, courier, detale, selected detale and order. With SQL it is possible to gather information such as witch details are selected by individual customers, how many orders does assembler has to assemble in selected period of time and many more.
+
 
 Conceptual and physical models created with PowerDesigner, database stored on Microsoft SQL Server, managment of database done with Microsoft SQL Server Management Studio.
 
